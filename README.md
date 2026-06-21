@@ -95,4 +95,3 @@ Some of my most relevant work is private because it belongs to active products, 
 <p align="center">
   Building useful systems, improving messy websites, and turning SEO work into repeatable processes.
 </p>
-```
