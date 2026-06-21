@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Aleksandar Ostojic</h1>
 
 <p align="center">
